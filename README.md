@@ -24,9 +24,9 @@ or
 pip install -r requirements.txt
 ```
 
- ===================
-| Dataset Analysis & Sentiment Analysis|
- ===================
+
+## Dataset Analysis & Sentiment Analysis|
+
 
 To perform Data Analysis and Sentiment Analysis, run the following command:
 
@@ -35,16 +35,16 @@ cd CZ4045-Group13/src/
 python data_analysis.py
 ```
 
- ======================
-| Noun Phrase Detector |
- ======================
+
+## Noun Phrase Detector 
+
 ```
 cd CZ4045-Group13/src/
 python noun_phrase_summarizer.py
 ```
- ========================
-| Comparative Expression |
- ========================
+
+## Comparative Expression 
+
 ```
 cd CZ4045-Group13/src/
 python comparativeExpr.py
